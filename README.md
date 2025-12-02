@@ -1,4 +1,4 @@
-# JAVA_CODE
+# JAVA_Code
 
 A collection of Java solutions for various Data Structures, Algorithms, and Coding Interview problems.  
 This repository is created to organize and track daily Java practice including LeetCode, coding challenges, and problem-solving exercises.
